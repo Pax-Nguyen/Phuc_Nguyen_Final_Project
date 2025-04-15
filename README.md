@@ -40,3 +40,5 @@ Dataset: https://www.kaggle.com/datasets/thedevastator/online-retail-transaction
   
 **Data Uses:** This dataset enables rich insights into wholesaler behavior, supporting inventory management, trend analysis for comprehensive retail analysis.
 
+## 5. Data Cleaning:
+Follows steps in `Cleaning and Extracting Data.ibpy` 
