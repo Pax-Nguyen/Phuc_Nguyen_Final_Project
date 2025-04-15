@@ -78,8 +78,11 @@ Follows steps in `Cleaning and Extracting Data.ipynb`
   
 #### 3. Others are top in both lists (sweet spot products)
 These are consistent high performers:
+
 `WHITE HANGING HEART T-LIGHT HOLDER (£2.55)`
+
 `JUMBO BAG RED RETROSPOT (£1.95)`
+
 `MEDIUM CERAMIC TOP STORAGE JAR (£1.25)`
 
 **Insight:** These are fast-moving, well-priced, and widely liked.
