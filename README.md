@@ -76,7 +76,7 @@ Follows steps in `Cleaning and Extracting Data.ipynb`
     
   **Recommendation:** Good for highlighting premium offerings or gifting campaigns.
   
-#### 3. Others are top in both lists (sweet spot products)
+#### 6.2.3 Others are top in both lists (sweet spot products)
 These are consistent high performers:
 
 `WHITE HANGING HEART T-LIGHT HOLDER (£2.55)`
