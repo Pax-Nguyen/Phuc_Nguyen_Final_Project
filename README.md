@@ -93,9 +93,9 @@ These are consistent high performers:
   
 **Sum up strategic takeaways for top-selling products:**
 
-- PAPER CRAFT, JUMBO BAG, STORAGE JAR: Push volume, create bundles
-- REGENCY CAKESTAND (luxury feel, gift packaging): Use premium positioning
-- HEART HOLDER, STORAGE JAR: Ensure supply for fast-moving goods
+- `PAPER CRAFT, JUMBO BAG, STORAGE JAR`: Push volume, create bundles
+- `REGENCY CAKESTAND` (luxury feel, gift packaging): Use premium positioning
+- `HEART HOLDER, STORAGE JAR`: Ensure supply for fast-moving goods
 
 ### 6.3 Purchase behavior
 #### 6.3.1 Customer Recency
@@ -112,3 +112,76 @@ Determine a reference date for recency (one day after the last date in your data
 | Inactive  | >180 days  | Possibly lost  | Win-back strategies  |
 
 #### 6.3.2 Customer purchase frequency
+**High variability in customer engagement**
+
+![Untitled design (1)](https://github.com/user-attachments/assets/e01e56c2-4476-4b1e-8b46-e0e84f3df132)
+
+The average purchase frequency is 4.25, but the standard deviation is quite high (7.63). This indicates a significant variation in how frequently different customers shop.
+
+This suggests the customer base is diverse, ranging from one-time buyers to highly engaged repeat customers.
+
+![Customer Behaviors 4](https://github.com/user-attachments/assets/110013ee-7165-4121-b1de-f323a1d4f478)
+
+**Predominance of one-time or infrequent buyers**
+
+- **Insight:** About 53% of customers have made 2 or fewer purchases. This shows that many customers are infrequent buyers.
+
+- **Recommendation:** Develop targeted campaigns for infrequent customers to encourage repeat purchases.
+
+**Presence of valuable repeat customers**
+
+- **Insight:** A small group of customers purchased as frequently as 206 times, indicating loyal, high-value customers.
+
+- **Recommendation:** Targeting this segment with loyalty programs or personalized marketing could further enhance their engagement and profitability.
+
+#### 6.3.3 Average Order Value (AOV)
+![Customer Behaviors 3](https://github.com/user-attachments/assets/3cdaac33-5996-43ec-b289-1f3d1b0e2903)
+
+The average Order Value (AOV) is approximately £476.03, which is considerably higher than typical B2C retail benchmarks in the UK for 2011. However, this elevated AOV aligns with the business model of the company, which catered to a significant number of wholesale customers, thereby justifying the larger transaction sizes.
+
+Although the average order value (AOV) is £476.03, the median AOV is £302.20. This significant difference indicates a right-skewed distribution, where a small number of large-value orders are inflating the overall average. In practical terms, most customers typically spend around £300 per order, while a few outliers push the mean much higher.
+
+**Segment customers by order value**
+
+- **Insight:** Based on purchase frequency, approximately 60% of customers appear to be retail buyers, while 40% are wholesale.
+
+- **Recommendation:**
+    1. Retail: Emphasize product uniqueness, gift packaging, fast delivery
+    2. Wholesale: Offer bulk discounts, loyalty pricing tiers, and free shipping over a threshold
+
+### 6.4 Time-based analysis
+#### 6.4.1 Monthly Revenue
+![Time base 1](https://github.com/user-attachments/assets/bca39674-99bf-46c1-9db3-8370a2a87169)
+
+**Insight:** Revenue climbs steadily toward November (the peak month).
+
+**Recommendations**
+- Prepare for peak season early:
+  1. Launch holiday campaigns (Halloween, Black Friday, Christmas). 
+  2. Use personalized emails and discounts starting in September, October.
+
+- Bundle gift sets: Promote themed or seasonal sets to boost AOV (Average Order Value).
+
+- Ensure supply chain readiness: Stock up bestsellers & gift packaging in Q3.
+#### 6.4.2 Revenue by Weekday
+
+![Time base 2](https://github.com/user-attachments/assets/1a1fcf52-340f-423f-a589-bfa7d4e2609f)
+
+**Insight:** Tuesday and Thursday are top-performing days; Sunday is the weakest.
+
+**Recommendations:**
+- Launch new products or promotions on Tuesdays/Thursdays for maximum impact.
+- Schedule ads/posts during these high-performing days using data-driven automation.
+- Use Sunday for storytelling content (blog posts, behind-the-scenes) or light engagement → test content-driven brand touchpoints.
+
+#### 6.4.3 Revenue by Hour
+
+![Time base 4](https://github.com/user-attachments/assets/a6a5a783-6468-4d9d-8617-190162f5ea8d)
+
+**Insight:** Most purchases happen between 9AM–2PM (UK time).
+
+**Recommendations:**
+- Schedule email blasts and promotions to hit inboxes between 8–9AM.
+- Ad scheduling: Focus Facebook/Google ads budget between 9AM–2PM.
+- Live chat/Customer support availability should prioritize this window.
+
