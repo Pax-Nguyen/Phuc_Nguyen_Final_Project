@@ -185,3 +185,11 @@ Although the average order value (AOV) is £476.03, the median AOV is £302.20 (
 - Ad scheduling: Focus Facebook/Google ads budget between 9AM–2PM.
 - Live chat/Customer support availability should prioritize this window.
 
+## 7. Outcomes
+
+To boost revenue from top-selling products, focus on promoting the hero item `PAPER CRAFT, LITTLE BIRDIE` through bundles, bulk discounts, and prominent ad placement. Leverage high-value products like the `REGENCY CAKESTAND 3 TIER` with premium positioning and gift-focused campaigns. Strengthen consistent sellers by cross-selling them in bundles and featuring them in seasonal promotions. Ensure stock availability, monitor monthly bestsellers, and optimize packaging to support repeat purchases and increase average order value.
+
+Most customers buy around `4.25 time`s, and `66.6% have purchased recently`, showing strong retention potential. However, `one-third are lapsed or inactive`, needing reactivation. The `average order value is $476`, but the `median is $300`, meaning only a few spend big. To optimize revenue: `retain recent buyers` with loyalty perks, `re-engage inactive ones` with special offers, and `boost order value` through smart bundling and upselling around the $300–500 range.
+
+The time-based revenue analysis reveals that sales peak in `November`, likely driven by holiday shopping; `Tuesdays and Thursdays` are the most active purchase days, while Sundays see the least activity; and most purchases occur between `9AM and 2PM`. To optimize performance, the company should focus marketing campaigns and promotions around `Q4`, especially October, schedule email and ad pushes during `weekday mornings`, and prioritize high-engagement days for new launches. Meanwhile, Sundays can be used for softer, brand-building content or experimentation.
+
