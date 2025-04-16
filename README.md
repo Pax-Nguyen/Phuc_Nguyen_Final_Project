@@ -41,7 +41,7 @@ Dataset: https://www.kaggle.com/datasets/thedevastator/online-retail-transaction
 **Data Uses:** This dataset enables rich insights into wholesaler behavior, supporting inventory management, trend analysis for comprehensive retail analysis.
 
 ## 5. Data Cleaning:
-Follows steps in `Cleaning and Extracting Data.ipynb` 
+Follows steps in `Clean and Extract Data.ipynb` 
 
 ## 6. Data Analysis
 ### 6.1 Overall Statistics
@@ -139,7 +139,7 @@ This suggests the customer base is diverse, ranging from one-time buyers to high
 
 The average Order Value (AOV) is approximately £476.03, which is considerably higher than typical B2C retail benchmarks in the UK for 2011. However, this elevated AOV aligns with the business model of the company, which catered to a significant number of wholesale customers, thereby justifying the larger transaction sizes.
 
-Although the average order value (AOV) is £476.03, the median AOV is £302.20. This significant difference indicates a right-skewed distribution, where a small number of large-value orders are inflating the overall average. In practical terms, most customers typically spend around £300 per order, while a few outliers push the mean much higher.
+Although the average order value (AOV) is £476.03, the median AOV is £302.20 (see the calculation in `Clean and Extract Data.ipynb`). This significant difference indicates a right-skewed distribution, where a small number of large-value orders are inflating the overall average. In practical terms, most customers typically spend around £300 per order, while a few outliers push the mean much higher.
 
 **Segment customers by order value**
 
