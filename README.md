@@ -5,7 +5,7 @@
 - Identify the top-selling products
 - Identify the customer behaviors: frequency, monetary and recency
 - Identify time-based revenue (e.g Monthly, Weekday and Hour)
-- 
+  
 **Outcome:**
 - Determine which products sell the most and suggest approaches to further increase their sales.
 - Understand how customers behave to create effective campaigns for each group.
@@ -45,10 +45,10 @@ Follows steps in `Clean and Extract Data.ipynb`
 
 ## 6. Data Analysis
 ### 6.1 Overall Statistics
-![Overall](https://github.com/user-attachments/assets/fd534275-08a2-48af-9fb7-6d8de63a1dc2)
+![Overall](https://github.com/user-attachments/assets/22fea717-5ffc-46b3-b920-98872fb3f3a6)
 
-- With a total online revenue of nearly £8.76 million in 2011, this company can be considered a strong performer among small to mid-sized e-commerce businesses of its time, despite accounting for a small fraction of the national e-commerce market
-- Handling over 400,000 transactions in 2011, the company demonstrates a significant operational scale for a non-store online retailer at the time, indicating both high customer activity and a steady volume of low-to-mid priced product sales.
+- With a total online revenue of nearly £8.76 million in 2011, this company can be considered a strong performer among small to mid-sized e-commerce businesses of its time, despite accounting for a small fraction of the national e-commerce market (£6.1bil)
+- Handling over 4,300 customers and 400,000 orders in 2011, the company demonstrates a significant operational scale for a non-store online retailer at the time, indicating both high customer activity and a steady volume of low-to-mid priced product sales.
 - With approximately 3,800 distinct product codes, the company showcased a notably diverse product catalog for a non-store online retailer in 2011. Such breadth likely contributed to customer retention and positioned the business as a one-stop destination for gift-related items.
 - United Kingdom dominates — local customer base is strongest. The largest share of revenue comes from UK-based customers. Other European countries represent strong export markets. Countries like the Netherlands, Ireland (EIRE), Germany, France, etc., contribute significantly.
 
@@ -71,7 +71,7 @@ Follows steps in `Clean and Extract Data.ipynb`
   `REGENCY CAKESTAND 3 TIER`
   - No.2 in Total Sales (£142,592.95)
   - Not in Top 10 by Quantity
-  - 
+    
   **Insight:** This likely has a higher price per unit (£12.75), meaning fewer units sold but still generating big revenue.
     
   **Recommendation:** Good for highlighting premium offerings or gifting campaigns.
@@ -151,19 +151,31 @@ Although the average order value (AOV) is £476.03, the median AOV is £302.20 (
 
 ### 6.4 Time-based analysis
 #### 6.4.1 Monthly Revenue
-![Time base 1](https://github.com/user-attachments/assets/bca39674-99bf-46c1-9db3-8370a2a87169)
+![Time base 1](https://github.com/user-attachments/assets/e65891d3-9d4a-44cd-b2db-6342b08fed32)
 
-**Insight:** Revenue climbs steadily toward November (the peak month).
-
+**Insight:** 
+- Revenue climbs steadily toward November (the peak month).
+- Total quantity increased steadily in line with revenue throughout the year, while the number of orders remained relatively stable. This suggests that from January to July, the majority of customers were likely retail buyers, whereas from August to November, wholesale buyers became more dominant.
+  
 **Recommendations**
-- Prepare for peak season early:
-  1. Launch holiday campaigns (Halloween, Black Friday, Christmas). 
-  2. Use personalized emails and discounts starting in September, October.
 
-- Bundle gift sets: Promote themed or seasonal sets to boost AOV (Average Order Value).
+**- Segment Retail and Wholesale Strategies:**
+  
+ Develop separate marketing and pricing plans for retail (Jan–Jul) and wholesale (Aug–Nov) customers.
 
-- Ensure supply chain readiness: Stock up bestsellers & gift packaging in Q3.
-#### 6.4.2 Revenue by Weekday
+**- Target Wholesale Early:**
+
+  Launch bulk-buy campaigns around July with incentives like free shipping or early access to holiday collections.
+
+**- Optimize Inventory for Peak Season:**
+  
+ Stock up on high-demand items in advance of the Aug–Nov surge, especially for corporate and large-quantity orders.
+
+**- Seasonal Messaging Focus:**
+  
+ Highlight personal gifting occasions in the first half of the year and shift to bulk and holiday themes in the second half.
+
+ #### 6.4.3 Revenue by Weekday
 
 ![Time base 2](https://github.com/user-attachments/assets/1a1fcf52-340f-423f-a589-bfa7d4e2609f)
 
@@ -191,5 +203,5 @@ To boost revenue from top-selling products, focus on promoting the hero item `PA
 
 Most customers buy around `4.25 time`s, and `66.6% have purchased recently`, showing strong retention potential. However, `one-third are lapsed or inactive`, needing reactivation. The `average order value is $476`, but the `median is $300`, meaning only a few spend big. To optimize revenue: `retain recent buyers` with loyalty perks, `re-engage inactive ones` with special offers, and `boost order value` through smart bundling and upselling around the $300–500 range.
 
-The time-based revenue analysis reveals that sales peak in `November`, likely driven by holiday shopping; `Tuesdays and Thursdays` are the most active purchase days, while Sundays see the least activity; and most purchases occur between `9AM and 2PM`. To optimize performance, the company should focus marketing campaigns and promotions around `Q4`, especially October, schedule email and ad pushes during `weekday mornings`, and prioritize high-engagement days for new launches. Meanwhile, Sundays can be used for softer, brand-building content or experimentation.
+The time-based revenue analysis reveals that sales peak in `November`, likely driven by wholesalers and holiday shopping; `Tuesdays and Thursdays` are the most active purchase days, while Sundays see the least activity; and most purchases occur between `9AM and 2PM`. To optimize performance, the company should focus marketing campaigns and promotions around `Q4`, especially October, schedule email and ad pushes during `weekday mornings`, and prioritize high-engagement days for new launches. Meanwhile, Sundays can be used for softer, brand-building content or experimentation.
 
