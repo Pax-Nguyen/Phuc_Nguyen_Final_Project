@@ -98,11 +98,34 @@ These are consistent high performers:
 - `HEART HOLDER, STORAGE JAR`: Ensure supply for fast-moving goods
 
 ### 6.3 Purchase behavior
-#### 6.3.1 Customer Recency
-This will calculate the number of days since each customer’s last purchase.
-Determine a reference date for recency (one day after the last date in your dataset).
+
+We will segment customers based on Recency, which measures the number of days since each customer’s most recent purchase.
+
+Reference date for calculating recency: one day after the last date in your dataset.
 
 ![Customer Behaviors 5](https://github.com/user-attachments/assets/91e98e31-c267-44d5-9ccc-efeb023311e9)
+
+#### 6.3.1 Very Recent Segment (Recency from 0-30 days)
+
+![0-30](https://github.com/user-attachments/assets/5cd1da4d-f3a3-490c-aced-8f431763b830)
+
+**Insights:**
+1. High Engagement Group
+   - This segment is the largest, making up 37.54% of total customers
+   - Likely contains both retail and wholesale customers
+     
+2. Likely contributes strongly to revenue
+   - Since they’re recent purchasers and AOV is high ($519.62), this group likely generates a large share of recent revenue
+     
+3. Overlap with high-frequency buyers
+   - Many of them may belong to the ≥ 30 Orders group (25.77%), making them key loyalty drivers
+     
+**Recommendation:**
+
+Keep nurturing to build loyalty and drive repeat purchases:
+- For those with ≥30 orders → Invite to join loyalty program
+- For one-time buyers → Offer next-purchase discounts, recommend relevant products
+
 
 | Segment  | Recency (Days) | Interpretation  | Recommended Action |
 | ------------- | ------------- | ------------- | ------------- |
@@ -111,43 +134,7 @@ Determine a reference date for recency (one day after the last date in your data
 | Lapsed  | 91–180 days  | At risk of churn  | Target re-engagement campaigns  |
 | Inactive  | >180 days  | Possibly lost  | Win-back strategies  |
 
-#### 6.3.2 Customer purchase frequency
-**High variability in customer engagement**
 
-![Untitled design (1)](https://github.com/user-attachments/assets/e01e56c2-4476-4b1e-8b46-e0e84f3df132)
-
-The average purchase frequency is 4.25, but the standard deviation is quite high (7.63). This indicates a significant variation in how frequently different customers shop.
-
-This suggests the customer base is diverse, ranging from one-time buyers to highly engaged repeat customers.
-
-![Customer Behaviors 4](https://github.com/user-attachments/assets/110013ee-7165-4121-b1de-f323a1d4f478)
-
-**Predominance of one-time or infrequent buyers**
-
-- **Insight:** About 53% of customers have made 2 or fewer purchases. This shows that many customers are infrequent buyers.
-
-- **Recommendation:** Develop targeted campaigns for infrequent customers to encourage repeat purchases.
-
-**Presence of valuable repeat customers**
-
-- **Insight:** A small group of customers purchased as frequently as 206 times, indicating loyal, high-value customers.
-
-- **Recommendation:** Targeting this segment with loyalty programs or personalized marketing could further enhance their engagement and profitability.
-
-#### 6.3.3 Average Order Value (AOV)
-![Customer Behaviors 3](https://github.com/user-attachments/assets/3cdaac33-5996-43ec-b289-1f3d1b0e2903)
-
-The average Order Value (AOV) is approximately £476.03, which is considerably higher than typical B2C retail benchmarks in the UK for 2011. However, this elevated AOV aligns with the business model of the company, which catered to a significant number of wholesale customers, thereby justifying the larger transaction sizes.
-
-Although the average order value (AOV) is £476.03, the median AOV is £302.20 (see the calculation in `Clean and Extract Data.ipynb`). This significant difference indicates a right-skewed distribution, where a small number of large-value orders are inflating the overall average. In practical terms, most customers typically spend around £300 per order, while a few outliers push the mean much higher.
-
-**Segment customers by order value**
-
-- **Insight:** Based on purchase frequency, approximately 60% of customers appear to be retail buyers, while 40% are wholesale.
-
-- **Recommendation:**
-    1. Retail: Emphasize product uniqueness, gift packaging, fast delivery
-    2. Wholesale: Offer bulk discounts, loyalty pricing tiers, and free shipping over a threshold
 
 ### 6.4 Time-based analysis
 #### 6.4.1 Monthly Revenue
