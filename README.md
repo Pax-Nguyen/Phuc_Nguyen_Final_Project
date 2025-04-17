@@ -57,17 +57,16 @@ Follows steps in `Clean and Extract Data.ipynb`
 
 ![Untitled design](https://github.com/user-attachments/assets/ed889f2f-ce53-47de-b1a6-d685b6e38770)
 
-  #### 6.2.1 One product dominates both revenue and volume
-  `PAPER CRAFT , LITTLE BIRDIE`
-  - Highest Total Sales: £168,469.60
-  - Highest Quantity Sold: 80,995 units
-  
-  **Insight:** This is clearly a hero product — both high-demand and high-revenue.
-  It is cheap per unit (£2.08) but sells in bulk.
-  
-  **Recommendation:** Ideal for bundling, promotion, or lead product campaigns.
+#### 6.2.1 One product dominates both revenue and volume
+`PAPER CRAFT , LITTLE BIRDIE`
+- Highest Total Sales: £168,469.60
+- Highest Quantity Sold: 80,995 units
 
-  #### 6.2.2 Some products have high revenue but aren’t high in quantity
+**Insight:** This is clearly a hero product — both high-demand and high-revenue. It is cheap per unit (£2.08) but sells in bulk.
+  
+**Recommendation:** Ideal for bundling, promotion, or lead product campaigns.
+
+#### 6.2.2 Some products have high revenue but aren’t high in quantity
   `REGENCY CAKESTAND 3 TIER`
   - No.2 in Total Sales (£142,592.95)
   - Not in Top 10 by Quantity
@@ -109,18 +108,19 @@ Reference date for calculating recency: one day after the last date in your data
 
 ![0-30](https://github.com/user-attachments/assets/5cd1da4d-f3a3-490c-aced-8f431763b830)
 
-**Insights:**
-1. High Engagement Group
+**🔍 Insights:**
+
+1. **High Engagement Group**
    - This segment is the largest, making up 37.54% of total customers
    - Likely contains both retail and wholesale customers
      
-2. Likely contributes strongly to revenue
+2. **Likely contributes strongly to revenue**
    - Since they’re recent purchasers and AOV is high ($519.62), this group likely generates a large share of recent revenue
      
-3. Overlap with high-frequency buyers
+3. **Overlap with high-frequency buyers**
    - Many of them may belong to the ≥ 30 Orders group (25.77%), making them key loyalty drivers
      
-**Recommendation:**
+**💡 Recommendation for Very Recent Segment**
 
 Keep nurturing to build loyalty and drive repeat purchases:
 - For those with ≥30 orders → Invite to join loyalty program
@@ -130,28 +130,31 @@ Keep nurturing to build loyalty and drive repeat purchases:
 
 ![30-91](https://github.com/user-attachments/assets/81edbb94-79bb-43fe-ba2c-0bc9833e600e)
 
-**Insights**
-1. Moderately Engaged Group
+**🔍 Insights**
+
+1. **Moderately Engaged Group**
    - Purchase frequency = 3.10, showing they’ve bought more than once, but not frequently.
    - Likely includes both repeat retail customers and small wholesale buyers.
 
-2. Solid AOV but Lower than Very Recent
+2. **Solid AOV but Lower than Very Recent**
    - AOV = $407.72 vs. $519.62 (Very Recent) and $429.53 (Inactive)
    - Suggests: this group is important for mid-level revenue and can be nudged to re-engage before they lapse
 
-3. At-risk of churn
+3. **At-risk of churn**
    - Recency is 31–90 days → this is the sweet spot for reactivation
    - These are not cold yet, but may soon become Lapsed or Inactive
      
-**Recommendations**
-1. Re-engagement Campaign
+**💡 Recommendations for Recent Segment**
+
+1. **Re-engagement Campaign**
+
    Remind them of your brand before they forget
    
    Use email or retargeting with:
 
    "Haven’t seen you in a while — here’s 10% off your next order!"
 
-3. Highlight New or Seasonal Items
+2. **Highlight New or Seasonal Items**
 
    Suggest what’s changed since their last visit:
 
@@ -159,12 +162,13 @@ Keep nurturing to build loyalty and drive repeat purchases:
 
    "Fresh stock just in for [season/event]"
 
-3. Loyalty Nudges
+3. **Loyalty Nudges**
+   
    For customers with 3+ orders (esp. the 16% with ≥ 30 orders):
    - Offer loyalty program invitations
    - Encourage repeat buying habits
 
-4. Dynamic timing
+4. **Dynamic timing**
 
    Create an automated flow in your CRM or email system:
 
@@ -174,20 +178,20 @@ Keep nurturing to build loyalty and drive repeat purchases:
 ![91-180](https://github.com/user-attachments/assets/25234465-8eea-44d2-b6b4-7630139560ce)
 
 **🔍 Insights**
-1. Moderately disengaged group
+1. **Moderately disengaged group**
    - Purchase frequency = 2.34: most of these customers purchased more than once, but not often
    - Many haven’t purchased in 3–6 months, so they're at risk of being lost
 
-2. Declining order value
+2. **Declining order value**
    - AOV is $337.81, lower than Recent ($407.72) and Very Recent ($519.62)
    - Indicates potential drop in interest, loyalty, or relevance of current products
 
-3. Smaller proportion of loyal buyers
+3. **Smaller proportion of loyal buyers**
    - Only 4.5% have made ≥30 orders
    - Meanwhile, 9% are near one-time buyers (≤2 orders)
 
-**💡 Recommendations:**
-1. Run targeted win-back campaigns
+**💡 Recommendations for Lapsed Segment**
+1. **Run targeted win-back campaigns**
 
    Use messaging like:
 
@@ -195,19 +199,19 @@ Keep nurturing to build loyalty and drive repeat purchases:
 
    Target them at 90, 120, and 150 days post last purchase
 
-2. Remind them of what they loved
+2. **Remind them of what they loved**
    
    Include items they purchased before or similar alternatives
 
    Add urgency: “Back in stock — limited quantity!”
 
-3. Test deeper discounts or bundles
+3. **Test deeper discounts or bundles**
 
    Since this group shows fading interest, incentivize return with:
    - Bundled deals
    - Tiered discounts (e.g., save more when you buy more)
 
-4. Identify friction points
+4. **Identify friction points**
    
    If possible, run a short survey:
 
@@ -215,15 +219,61 @@ Keep nurturing to build loyalty and drive repeat purchases:
 
    Helps uncover whether issues are product-related, delivery, or seasonal
 
+#### 6.3.4 Inactive Segment (Recency >180 days)
+![more than180](https://github.com/user-attachments/assets/064e28c6-727c-42ed-8e06-f318afb88f26)
 
-| Segment  | Recency (Days) | Interpretation  | Recommended Action |
-| ------------- | ------------- | ------------- | ------------- |
-| Very Recent  | 0-30 days  | Actively engaging  | Offer loyalty or referral deals  |
-| Recent  | 31–90 days  | Recently interacted  | Send personalized promotions  |
-| Lapsed  | 91–180 days  | At risk of churn  | Target re-engagement campaigns  |
-| Inactive  | >180 days  | Possibly lost  | Win-back strategies  |
+**🔍 Insights**
+1. **Lowest engagement across all segments**
+   
+   - Purchase frequency = 1.50 → majority are one-time or at most two-time buyers
+   - Highest likelihood of churn or being permanently lost
 
+2. **Surprisingly high AOV**
+   - Despite being inactive, AOV = $429.53, which is higher than:
+     - Lapsed ($337.81)
+     - Recent ($407.72)
+     
+   - Suggests these may be one-time wholesale or gift buyers with large orders
 
+3. **High unit price = high-value products**
+   - Average unit price = $4.88, the highest among all segments
+   - Indicates purchases may have been fewer items, but more expensive ones
+
+**💡 Recommendations for Inactive Segment**
+1. **Segment and target high-value one-timers**
+   
+   For those with high AOV, send personalized reminders like:
+   "Enjoyed your last order? Here's something you'll love again."
+
+2. **Reactivation with bold offers**
+   
+   Because these customers are far removed, test:
+   - Flash sales
+   - Bigger-than-normal discounts (e.g. 25–30%)
+   - Exclusive 'back for a limited time' bundles
+
+3. **Low-touch retention fallback**
+   
+   If they don't respond after multiple touchpoints:
+   - Stop active marketing to reduce cost
+   - Move them to low-frequency or seasonal-only email list
+
+4. **Collect feedback (optional)**
+   
+   Run a short win-back survey:
+
+   "Why haven’t you been back? We’d love to improve for you."
+
+Sum up for Customer purchase behavior:
+<img width="881" alt="Screenshot 2025-04-17 at 16 37 59" src="https://github.com/user-attachments/assets/e5ab9dae-029b-49ae-bc65-0214840fc04f" />
+
+- Very Recent is the most active and valuable group (high frequency + AOV) → retain strongly
+
+- Recent is still warm — perfect time to re-engage and upsell
+
+- Lapsed shows declining behavior → needs win-back campaigns
+
+- Inactive is mostly lost, but may include high-value one-timers → target selectively
 
 ### 6.4 Time-based analysis
 #### 6.4.1 Monthly Revenue
@@ -277,7 +327,7 @@ Keep nurturing to build loyalty and drive repeat purchases:
 
 To boost revenue from top-selling products, focus on promoting the hero item `PAPER CRAFT, LITTLE BIRDIE` through bundles, bulk discounts, and prominent ad placement. Leverage high-value products like the `REGENCY CAKESTAND 3 TIER` with premium positioning and gift-focused campaigns. Strengthen consistent sellers by cross-selling them in bundles and featuring them in seasonal promotions. Ensure stock availability, monitor monthly bestsellers, and optimize packaging to support repeat purchases and increase average order value.
 
-Most customers buy around `4.25 time`s, and `66.6% have purchased recently`, showing strong retention potential. However, `one-third are lapsed or inactive`, needing reactivation. The `average order value is $476`, but the `median is $300`, meaning only a few spend big. To optimize revenue: `retain recent buyers` with loyalty perks, `re-engage inactive ones` with special offers, and `boost order value` through smart bundling and upselling around the $300–500 range.
+Customers are segmented into four groups based on recency: Very Recent (0–30 days), Recent (31–90 days), Lapsed (91–180 days), and Inactive (>180 days). The Very Recent segment is the most engaged, with the highest purchase frequency and order value, making them ideal for loyalty-building and upsell strategies. The Recent group remains active but requires timely follow-up to prevent churn. Lapsed customers show declining engagement and should be targeted with win-back offers and reminders. Meanwhile, the Inactive group includes mostly one-time buyers; reactivation efforts should focus on high-value individuals, while others can be deprioritized to optimize resources.
 
 The time-based revenue analysis reveals that sales peak in `November`, likely driven by wholesalers and holiday shopping; `Tuesdays and Thursdays` are the most active purchase days, while Sundays see the least activity; and most purchases occur between `9AM and 2PM`. To optimize performance, the company should focus marketing campaigns and promotions around `Q4`, especially October, schedule email and ad pushes during `weekday mornings`, and prioritize high-engagement days for new launches. Meanwhile, Sundays can be used for softer, brand-building content or experimentation.
 
