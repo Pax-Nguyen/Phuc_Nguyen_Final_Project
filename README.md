@@ -126,6 +126,95 @@ Keep nurturing to build loyalty and drive repeat purchases:
 - For those with ≥30 orders → Invite to join loyalty program
 - For one-time buyers → Offer next-purchase discounts, recommend relevant products
 
+#### 6.3.2 Recent Segment (Recency from 31-90 days)
+
+![30-91](https://github.com/user-attachments/assets/81edbb94-79bb-43fe-ba2c-0bc9833e600e)
+
+**Insights**
+1. Moderately Engaged Group
+   - Purchase frequency = 3.10, showing they’ve bought more than once, but not frequently.
+   - Likely includes both repeat retail customers and small wholesale buyers.
+
+2. Solid AOV but Lower than Very Recent
+   - AOV = $407.72 vs. $519.62 (Very Recent) and $429.53 (Inactive)
+   - Suggests: this group is important for mid-level revenue and can be nudged to re-engage before they lapse
+
+3. At-risk of churn
+   - Recency is 31–90 days → this is the sweet spot for reactivation
+   - These are not cold yet, but may soon become Lapsed or Inactive
+     
+**Recommendations**
+1. Re-engagement Campaign
+   Remind them of your brand before they forget
+   
+   Use email or retargeting with:
+
+   "Haven’t seen you in a while — here’s 10% off your next order!"
+
+3. Highlight New or Seasonal Items
+
+   Suggest what’s changed since their last visit:
+
+   "New arrivals you’ll love!"
+
+   "Fresh stock just in for [season/event]"
+
+3. Loyalty Nudges
+   For customers with 3+ orders (esp. the 16% with ≥ 30 orders):
+   - Offer loyalty program invitations
+   - Encourage repeat buying habits
+
+4. Dynamic timing
+
+   Create an automated flow in your CRM or email system:
+
+   - Target customers exactly at 45, 60, 75 days post-purchase with tailored offers
+
+#### 6.3.3 Lapsed Segment (Recency from 91-180 days)
+![91-180](https://github.com/user-attachments/assets/25234465-8eea-44d2-b6b4-7630139560ce)
+
+**🔍 Insights**
+1. Moderately disengaged group
+   - Purchase frequency = 2.34: most of these customers purchased more than once, but not often
+   - Many haven’t purchased in 3–6 months, so they're at risk of being lost
+
+2. Declining order value
+   - AOV is $337.81, lower than Recent ($407.72) and Very Recent ($519.62)
+   - Indicates potential drop in interest, loyalty, or relevance of current products
+
+3. Smaller proportion of loyal buyers
+   - Only 4.5% have made ≥30 orders
+   - Meanwhile, 9% are near one-time buyers (≤2 orders)
+
+**💡 Recommendations:**
+1. Run targeted win-back campaigns
+
+   Use messaging like:
+
+   “It’s been a while — here’s 20% off just for you!”
+
+   Target them at 90, 120, and 150 days post last purchase
+
+2. Remind them of what they loved
+   
+   Include items they purchased before or similar alternatives
+
+   Add urgency: “Back in stock — limited quantity!”
+
+3. Test deeper discounts or bundles
+
+   Since this group shows fading interest, incentivize return with:
+   - Bundled deals
+   - Tiered discounts (e.g., save more when you buy more)
+
+4. Identify friction points
+   
+   If possible, run a short survey:
+
+   “We miss you — tell us how we can do better!”
+
+   Helps uncover whether issues are product-related, delivery, or seasonal
+
 
 | Segment  | Recency (Days) | Interpretation  | Recommended Action |
 | ------------- | ------------- | ------------- | ------------- |
