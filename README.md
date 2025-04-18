@@ -85,6 +85,7 @@ These are consistent high performers:
 `MEDIUM CERAMIC TOP STORAGE JAR (£1.25)`
 
 **Insight:** These are fast-moving, well-priced, and widely liked.
+
 **Recommendation:**
 - Keeping high stock
 - Creating bundles
