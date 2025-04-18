@@ -1,4 +1,4 @@
-# Optimizing revenue by leveraging insights from top-selling products, customer behaviors and time-based revenue analysis.
+# Optimizing revenue by leveraging insights from top-selling products, customer behaviors and time-based revenue analysis
 
 ## 1. Purpose and Outcome
 **Purpose:**
